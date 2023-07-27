@@ -1,0 +1,8 @@
+D:\Simplilearn\Assissted Projects\Section-6\PrimitiveType\PrimitiveType\bin\Debug\PrimitiveType.exe.config
+D:\Simplilearn\Assissted Projects\Section-6\PrimitiveType\PrimitiveType\bin\Debug\PrimitiveType.exe
+D:\Simplilearn\Assissted Projects\Section-6\PrimitiveType\PrimitiveType\bin\Debug\PrimitiveType.pdb
+D:\Simplilearn\Assissted Projects\Section-6\PrimitiveType\PrimitiveType\obj\Debug\PrimitiveType.csproj.AssemblyReference.cache
+D:\Simplilearn\Assissted Projects\Section-6\PrimitiveType\PrimitiveType\obj\Debug\PrimitiveType.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Assissted Projects\Section-6\PrimitiveType\PrimitiveType\obj\Debug\PrimitiveType.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Assissted Projects\Section-6\PrimitiveType\PrimitiveType\obj\Debug\PrimitiveType.exe
+D:\Simplilearn\Assissted Projects\Section-6\PrimitiveType\PrimitiveType\obj\Debug\PrimitiveType.pdb
